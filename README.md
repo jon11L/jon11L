@@ -15,11 +15,11 @@ I’m curious about **Machine Learning**, **IoT**, and **Game Development**. I�
 - **Frameworks:** Django, Flask, FastAPI  
 - **Libraries:** Tkinter, Pygame, Telegram API, Pillow
 
+
+⚡ Fun fact: I am a huge fan of the Vietnamese coffee style.
+
+
 📫 How to reach me: 
-
-😄 Pronouns: he/him.
-
-⚡ Fun fact: I am a fan of Vietnamese coffee.
 
 ---
 

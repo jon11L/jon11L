@@ -15,9 +15,11 @@ I’m curious about **Machine Learning**, **IoT**, and **Game Development**. I�
 💻 **Technologies I Work With:** 
 
 - **Backend:** Python  
-- **Frontend:** HTML, CSS  
+- **Frontend:** HTML, CSS, Js  
 - **Frameworks:** Django, Flask, FastAPI  
-- **Libraries:** Tkinter, Pygame, Telegram API, Pillow 
+- **Libraries:** Tkinter, Pygame, Telegram API, Pillow
+- **Databases:** RDBMS, PostgreSQL
+- **API:** Api, and REST API
 
 <br>
 
@@ -37,23 +39,25 @@ I’m curious about **Machine Learning**, **IoT**, and **Game Development**. I�
 <br>
 
 ## Some stats:
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jon11L&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jon11L&layout=compact&theme=radical&include_all_commits=true&count_private=true)
 
 
 
 
-<br>
-
 ---
 
 <br>
 
-📫 How to reach me: 
+<div style="display: flex; ">
 
+📫 How to reach me:
+    <div style="margin-left: 20px; ">
+    <a href="https://www.linkedin.com/in/jonathan-lemarie/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="html5" width="40" height="40" /></a> 
+    </div>
+
+</div>
+
+<br>
 
 🚀 **Let's build something amazing together!**  
 Feel free to check out my repositories and don’t hesitate to reach out for collaboration.
